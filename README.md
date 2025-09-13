@@ -14,6 +14,7 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 Line Plots,Scatter Plots,Histograms,Pairplots,Correlation Heatmap.
 
 **Data preprocessing**
+
 Identified unique values for each column.
 No missing values were found.
 Treated outliers using IQR method and validated with Boxplot.
@@ -21,9 +22,11 @@ Ensured target variable was properly filled before modeling.
 Converted object datatype into numeric datatype .
 
 **Conclusion**
+
  In conclusion RandomForest Classifier and ANN is the best fit for the datasetDropped unnecessary columns .
       
 **FUTURE INSIGHTS**
+
 Improve interpretability using SHAP/LIME.
 Deploy as a web app/API for real-time predictions.
 Use customer segmentation for targeted campaigns.
