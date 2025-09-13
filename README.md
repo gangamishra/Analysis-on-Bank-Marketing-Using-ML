@@ -29,8 +29,3 @@ Deploy as a web app/API for real-time predictions.
 Use customer segmentation for targeted campaigns.
 Test on larger, updated datasets for scalability.
 
-
-
-
- **Conclusion**
- In conclusion RandomForest Classifier and ANN is the best fit for the datasetDropped unnecessary columns .
